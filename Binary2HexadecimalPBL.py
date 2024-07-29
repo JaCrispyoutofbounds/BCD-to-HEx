@@ -2,6 +2,7 @@ import builtins
 from functools import partial
 from tkinter import*
 # Empty comment
+# Second Empty comment
 def calc():
     s=(inp.get())
     val=True
